@@ -1,4 +1,4 @@
-# SIGMA-Z
+# Sigmoid altitudinal ecotone retrieval
 
 **Sigmoid altitudinal ecotone retrieval, iso-NDVI kinematics and explainable gradient-boosted attribution on harmonised multi-decadal Landsat / Sentinel-2 surface-reflectance cubes**
 
