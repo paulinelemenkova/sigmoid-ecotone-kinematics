@@ -1,0 +1,9 @@
+aoi.json
+src/aoi.json
+out/
+data/
+*.tif
+*.npz
+__pycache__/
+.mypy_cache/
+.ruff_cache/
